@@ -26,7 +26,8 @@ c=np.linalg.inv(A);
 print(c)
 ```
 ## Output:
-![image](https://github.com/MOHAMEDRIDWAN/INVERSE-OF-A-MATRIX/assets/146993368/e3ec96c1-f956-42a1-b156-8c4912922119)
+<img width="486" alt="image" src="https://github.com/MOHAMEDRIDWAN/INVERSE-OF-A-MATRIX/assets/146993368/63fe1169-da27-4a2f-b778-91ec51dbf108">
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
