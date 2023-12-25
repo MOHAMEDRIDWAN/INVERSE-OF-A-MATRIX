@@ -8,9 +8,9 @@ To write a python program to find the inverse of a matrix
 ### Step1 :
 first we have to import module numpy as np
 ### Step 2: 
-create a matrix and store the the matrix in a variable
+create a matrix and store the the matrix in a variable using np.array
 ### Step 3: 
-we have to use the inbuilt functions "linalag.inv" in numpy module to find the inverse of the matrix anf store it in another variable
+we have to use the inbuilt functions "linalag.inv" in numpy module to find the inverse of the matrix and store it in another variable
 ### Step 4: 
 print the the final transpose of a matrix
 ## Program:
@@ -26,7 +26,8 @@ c=np.linalg.inv(A);
 print(c)
 ```
 ## Output:
-<img width="486" alt="image" src="https://github.com/MOHAMEDRIDWAN/INVERSE-OF-A-MATRIX/assets/146993368/63fe1169-da27-4a2f-b778-91ec51dbf108">
+<img width="487" alt="image" src="https://github.com/MOHAMEDRIDWAN/INVERSE-OF-A-MATRIX/assets/146993368/8d4a53d2-73d5-47a8-bd0b-d3f9782e24a1">
+
 
 
 ## Result:
